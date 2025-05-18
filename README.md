@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sekhar Thapa 
-- 👀 I’m a Data Engineering, Data Vizualization and interested in Cyber Security.
+- 👀 I’m a Data Engineer, Data Vizualization and interested in Cyber Security.
 - 🌱 I’m currently learning C# and Python.
 - 💞️ I’m looking to collaborate on Data Engineering and Cyber Security.
 - 📫 How to reach me thapa.stk@gmail.com.
